@@ -34,3 +34,7 @@ For package versions please see yarn.lock.
 ### Expected outcome
 
 No 404, I expected dynamic import to work in the worker.
+
+### Issue
+
+https://github.com/webpack-contrib/worker-loader/issues/164
