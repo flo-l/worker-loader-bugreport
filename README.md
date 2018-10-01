@@ -1,6 +1,20 @@
 A Bug report repo for worker-loader (webpack)
 =======================
 
+### System info
+
+Linux Fedora 28
+
+```
+$ node -v
+v8.9.1
+
+yarn -v
+1.10.1
+```
+
+For package versions please see yarn.lock.
+
 ### Steps to reproduce:
 
 - clone this repo and cd into it
