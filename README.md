@@ -1,7 +1,7 @@
 A Bug report repo for worker-loader (webpack)
 =======================
 
-###Steps to reproduce:
+### Steps to reproduce:
 
 - clone this repo and cd into it
 - `yarn install`
@@ -10,8 +10,10 @@ A Bug report repo for worker-loader (webpack)
 - check network tab of dev tools
 - notice the 404, see screenshot
 
-###Screenshot
+### Screenshot
 
-###Expected outcome
+![Screenshot](screenshot.png?raw=true "Screenshot")
+
+### Expected outcome
 
 No 404, I expected dynamic import to work in the worker.
