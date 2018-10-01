@@ -11,6 +11,9 @@ v8.9.1
 
 yarn -v
 1.10.1
+
+firefox -v
+Mozilla Firefox 62.0.2
 ```
 
 For package versions please see yarn.lock.
